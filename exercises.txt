@@ -1,0 +1,14 @@
+Exercise 1: Given a list of ages, use list comprehension to create a new list containing only the even ages.
+Instructions:
+1. Create a list of ages: `[22, 25, 30, 33, 40, 42, 55]`.
+2. Use list comprehension to create a new list called `even_ages` that contains only the even numbers from the original list.
+
+Exercise 2: Given a list of temperatures in Celsius, use list comprehension to convert them to Fahrenheit.
+Instructions:
+1. Create a list of temperatures in Celsius: `[0, 20, 37, 100]`.
+2. Use list comprehension to create a new list called `fahrenheit` that contains the temperatures converted to Fahrenheit.
+
+Exercise 3: Given a list of full names, use list comprehension to create a new list containing the initials of each name.
+Instructions:
+1. Create a list of names: `["John Doe", "Jane Smith", "Emily Johnson", "Michael Brown"]`.
+2. Use list comprehension to create a new list called `initials` that contains the initials (first letter of the first name and first letter of the last name) of each name.
